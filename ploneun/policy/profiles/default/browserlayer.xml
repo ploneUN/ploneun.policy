@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="ploneun.policy"
+        interface="ploneun.policy.interfaces.IProductSpecific" />
+</layers>
