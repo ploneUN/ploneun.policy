@@ -33,6 +33,9 @@ setup(name='ploneun.policy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+          'ploneun.calendar',
+          'ploneun.missions',
+          'iloksp.caching',
           # -*- Extra requirements: -*-
       ],
       extras_require={
