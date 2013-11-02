@@ -36,6 +36,7 @@ setup(name='ploneun.policy',
           'ploneun.calendar',
           'ploneun.missions',
           'collective.documentviewer',
+          'plone.app.async',
           'plonesocial.suite',
           # -*- Extra requirements: -*-
       ],
