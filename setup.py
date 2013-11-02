@@ -35,7 +35,6 @@ setup(name='ploneun.policy',
           'plone.multilingualbehavior',
           'ploneun.calendar',
           'ploneun.missions',
-          'iloksp.caching',
           # -*- Extra requirements: -*-
       ],
       extras_require={
