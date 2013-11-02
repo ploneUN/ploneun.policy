@@ -35,6 +35,8 @@ setup(name='ploneun.policy',
           'plone.multilingualbehavior',
           'ploneun.calendar',
           'ploneun.missions',
+          'collective.documentviewer',
+          'plonesocial.suite',
           # -*- Extra requirements: -*-
       ],
       extras_require={
