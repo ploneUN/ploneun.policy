@@ -4,7 +4,7 @@ Changelog
 0.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add collective.documentviewer and plonesocial.suite
 
 
 0.1 (2013-11-02)
