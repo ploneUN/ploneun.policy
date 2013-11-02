@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.2.1 (unreleased)
-----------------
+0.2.1 (2013-11-02)
+------------------
 
 - Version bump as package not pushed.
 
