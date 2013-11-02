@@ -1,10 +1,10 @@
 Changelog
 =========
 
-0.3 (unreleased)
+0.2.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Version bump as package not pushed.
 
 
 0.2 (2013-11-02)
