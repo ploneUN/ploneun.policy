@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.2.2 (unreleased)
+0.2.2 (2013-11-03)
 ------------------
 
 - Add missin dep plone.app.async
