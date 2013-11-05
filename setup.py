@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.2.2.dev0'
+version = '0.2.6.dev0'
 
 setup(name='ploneun.policy',
       version=version,
@@ -35,10 +35,13 @@ setup(name='ploneun.policy',
           'plone.multilingualbehavior',
           'ploneun.calendar',
           'ploneun.missions',
+          'ploneun.consultant',
+          'eea.facetednavigation',
           'collective.documentviewer',
           'plone.app.async',
           'plonesocial.suite',
           'sinarngo.resource',
+          'ilo.extenders',
           # -*- Extra requirements: -*-
           'Products.ContentWellPortlets',
           'collective.unslider',
