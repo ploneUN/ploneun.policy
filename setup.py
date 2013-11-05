@@ -38,11 +38,12 @@ setup(name='ploneun.policy',
           'collective.documentviewer',
           'plone.app.async',
           'plonesocial.suite',
+          'sinarngo.resource',
           # -*- Extra requirements: -*-
           'Products.ContentWellPortlets',
           'collective.unslider',
           'collective.plonetruegallery',
-          'sinarngo.resource',
+          'collective.quickupload',
       ],
       extras_require={
           'test': [
