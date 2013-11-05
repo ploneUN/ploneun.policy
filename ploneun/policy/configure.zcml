@@ -15,6 +15,4 @@
 
     <!-- -*- extra stuff goes here -*- -->
 
-    <include package="collective.xmpp.core" file="reactor.zcml"/>
-
 </configure>
