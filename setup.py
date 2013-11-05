@@ -40,6 +40,9 @@ setup(name='ploneun.policy',
           'collective.documentviewer',
           'plone.app.async',
           'plonesocial.suite',
+          'collective.xmpp.chat',
+          'collective.xmpp.core',
+          'ilo.extenders',
           # -*- Extra requirements: -*-
       ],
       extras_require={
