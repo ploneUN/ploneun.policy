@@ -39,6 +39,10 @@ setup(name='ploneun.policy',
           'plone.app.async',
           'plonesocial.suite',
           # -*- Extra requirements: -*-
+          'Products.ContentWellPortlets',
+          'collective.unslider',
+          'collective.plonetruegallery',
+          'sinarngo.resource',
       ],
       extras_require={
           'test': [
