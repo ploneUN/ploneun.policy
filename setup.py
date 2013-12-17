@@ -47,6 +47,7 @@ setup(name='ploneun.policy',
           'collective.unslider',
           'collective.plonetruegallery',
           'collective.quickupload',
+          'eea.daviz',
       ],
       extras_require={
           'test': [
