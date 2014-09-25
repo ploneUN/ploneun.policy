@@ -48,6 +48,7 @@ setup(name='ploneun.policy',
           'collective.plonetruegallery',
           'collective.quickupload',
           'eea.daviz',
+          'eea.relations',
       ],
       extras_require={
           'test': [
